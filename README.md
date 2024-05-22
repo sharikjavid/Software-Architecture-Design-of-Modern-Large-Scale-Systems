@@ -1,6 +1,10 @@
 # System Design
 
-Hey, welcome to the course. I hope this course provides a great learning experience.
+Hey there!
+
+Welcome to the course.I am thrilled to have you join us on this exciting journey into the world of system design. This course is meticulously crafted to provide you with a comprehensive understanding of system design principles and practices, whether you're a beginner looking to learn the basics or an experienced professional aiming to deepen your knowledge.
+
+Throughout this course,I will delve into various critical aspects of system design, including availability, scalability, and the intricacies of different architectures and technologies.
 
 
 
