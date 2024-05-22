@@ -5701,4 +5701,4 @@ Here are the resources that were referenced while creating this course.
 - [PagerDuty resources](https://www.pagerduty.com/resources)
 - [VMWare Blogs](https://blogs.vmware.com/learning)
 
-_All the diagrams were made using [Excalidraw](https://excalidraw.com) and are available [here](https://github.com/karanpratapsingh/system-design/tree/main/diagrams)._
+
