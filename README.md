@@ -2,7 +2,7 @@
 
 Hey, welcome to the course. I hope this course provides a great learning experience.
 
-_This course is also available on my [website](https://karanpratapsingh.com/courses/system-design) and as an ebook on [leanpub](https://leanpub.com/systemdesign). Please leave a ⭐ as motivation if this was helpful!_
+
 
 # Table of contents
 
@@ -12,18 +12,18 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
 
 - **Chapter I**
 
-  - [IP](#ip)
-  - [OSI Model](#osi-model)
-  - [TCP and UDP](#tcp-and-udp)
-  - [Domain Name System (DNS)](#domain-name-system-dns)
-  - [Load Balancing](#load-balancing)
-  - [Clustering](#clustering)
-  - [Caching](#caching)
-  - [Content Delivery Network (CDN)](#content-delivery-network-cdn)
-  - [Proxy](#proxy)
-  - [Availability](#availability)
-  - [Scalability](#scalability)
-  - [Storage](#storage)
+- [Availability](#availability)
+- [Caching](#caching)
+- [Clustering](#clustering)
+- [Content Delivery Network (CDN)](#content-delivery-network-cdn)
+- [Domain Name System (DNS)](#domain-name-system-dns)
+- [IP](#ip)
+- [Load Balancing](#load-balancing)
+- [OSI Model](#osi-model)
+- [Proxy](#proxy)
+- [Scalability](#scalability)
+- [Storage](#storage)
+- [TCP and UDP](#tcp-and-udp)
 
 - **Chapter II**
 
