@@ -1,4 +1,4 @@
-[System Design Fundementals](#System-Design-Fundementals)
+[Software Architecture & Design of Modern Large Scale Systems](#System-Design-Fundementals)
 
 
 Welcome to the course.I am thrilled to have you join us on this exciting journey into the world of system design. This course is meticulously crafted to provide you with a comprehensive understanding of system design principles and practices, whether you're a beginner looking to learn the basics or an experienced professional aiming to deepen your knowledge.
